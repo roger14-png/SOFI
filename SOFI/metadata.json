@@ -1,0 +1,6 @@
+{
+  "name": "SOFI Project",
+  "description": "A secure digital platform for modern banking. Features include business verification, real-time transfers, and security alerts for suspicious transactions with location tracking.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
